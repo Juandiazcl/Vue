@@ -1,13 +1,13 @@
 <template>
-    <Titulo texto="Esta es la pagina about"/>
+  <titulo texto="Mi Pagina con parametros"/>
+
 </template>
 
 <script>
 import Titulo from '../components/Titulo'
 export default {
-            components: {
-                Titulo         
-            }
+  components: { Titulo },
+
 }
 </script>
 
